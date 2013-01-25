@@ -199,19 +199,19 @@
     <string name="flip_action_title">Flip action</string>
 
     <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title">Flip device to\u2026</string>
+    <string name="flip_action_dialog_title">Flip nexus to\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary">Flipping the phone down will <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary">Flipping the nexus down will <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Setting title for the shake action setting. -->
     <string name="shake_action_title">Shake action</string>
 
     <!-- Dialog title for the shake action setting. -->
-    <string name="shake_action_dialog_title">Shake device to\u2026</string>
+    <string name="shake_action_dialog_title">Shake nexus to\u2026</string>
 
     <!-- Setting summary for the shake action setting. -->
-    <string name="shake_action_summary">Shaking the phone will <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_action_summary">Shaking the nexus will <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Auto silence preference title -->
     <string name="auto_silence_title">Silence after</string>
